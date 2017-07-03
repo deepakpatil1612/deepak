@@ -4,9 +4,6 @@ layout: page
 permalink: /fr/logiciels/
 ---
 
-## Projets logiciels
-
-Mes projets logiciels publics sont pour l'ensemble visibles sur mon profil Github : {% include _icons/github.html username=site.github_username %}.
 
 ### academic
 

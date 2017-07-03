@@ -5,9 +5,7 @@ layout: page
 permalink: /en/software/
 ---
 
-## Software projects
 
-Most of my software projects can be found on Github: {% include _icons/github.html username=site.github_username %}.
 
 ### academic
 

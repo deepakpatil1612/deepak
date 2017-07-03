@@ -4,7 +4,7 @@ title_html: "<b>ga</b>briel<b><span class=\"invisible\"> </span>alcaras</b>"
 description:
   fr: Gabriel Alcaras est doctorant en sociologie, spécialiste des questions numériques et des méthodes quantitatives.
   en: Gabriel Alcaras is a PhD student in sociology, mostly working on digital issues and quantitative methods.
-baseurl: ""
+baseurl: "gaalcaras"
 url: "https://gaalcaras.com"
 
 langs: ["fr", "en"]

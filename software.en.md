@@ -9,25 +9,16 @@ permalink: /en/software/
 
 ### academic
 
-Academic is a [Jekyll](http://jekyllrb.com/) theme that I created for my [blog](https://sociologs.com) and for this website.
 
-Code source available on [Github](https://github.com/gaalcaras/academic/).
 
-### mailingListScraper
-
-A Python tool created during my PhD, `mailingListScraper` can retrieve mailing list archives, organizing the data and metadata as a database.
-It's well suited for mailing lists that contain a very big number of emails (several millions).
-
-Code source available on [Github](https://github.com/gaalcaras/mailingListScraper/).
 
 ## Computer Skills
 
 ### Programming
 
 | Language                               | Level        | Details                                                                              |
-| --------                               | ---------    | ---------                                                                            |
-| [R](http://cran.r-project.org/)        | Advanced     | Advanced knowledge of ggplot2, data.table, Shiny.                                    |
-| [LaTeX](http://www.latex-project.org/) | Advanced     | [Latexmk](http://personal.psu.edu/jcc8//software/latexmk-jcc/) is my go-to compiler. |
+| --------                               | ---------    | ---------                                                                            |                                  |
+| [LaTeX](www.google.com) | Advanced     | [Latexmk](www.google.com) |
 | Python                                 | Intermediate |                                                                                      |
 | JavaScript                             | Intermediate |                                                                                      |
 | HTML/CSS                               | Intermediate |                                                                                      |
@@ -38,7 +29,7 @@ Code source available on [Github](https://github.com/gaalcaras/mailingListScrape
 
 | OS              | Level        | Details                                                                                                                    |
 | --------        | ---------    | ---------                                                                                                                  |
-| Linux           | Advanced     | [ArchLinux](https://www.archlinux.org/) on my machines, [Ubuntu 16.04](https://www.ubuntu.com/) for all my servers.        |
+| Linux           | Advanced     | [ArchLinux](www.google.com) on my machines, [Ubuntu 16.04](www.google.com) for all my servers.        |
 | macOS & Windows | Intermediate | My knowledge of these systems has faded away since I last used them on a daily basis, but I still can manage if I need to. |
 
 ### Software and tools
